@@ -1,4 +1,4 @@
-[https://coveralls.io/github/AnyaAP/labb5]
+[![Coverage Status](https://coveralls.io/repos/github/AnyaAP/labb5/badge.svg?branch=main)](https://coveralls.io/github/AnyaAP/labb5?branch=main)
 # lab5
 Google Test — это фреймворк от Google для юнит-тестирования кода на С++.\
 Google C++ Testing Framework (Google Test) — библиотека для модульного тестирования (англ. unit testing) на языке С++.\
